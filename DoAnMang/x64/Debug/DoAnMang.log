@@ -1,0 +1,4 @@
+﻿  DoAnMang.cpp
+c:\users\boy-\desktop\dd\doanmang\doanmang\doanmang.cpp(110): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+c:\users\boy-\desktop\dd\doanmang\doanmang\doanmang.cpp(187): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+  DoAnMang.vcxproj -> C:\Users\Boy-\Desktop\DD\DoAnMang\x64\Debug\DoAnMang.exe
